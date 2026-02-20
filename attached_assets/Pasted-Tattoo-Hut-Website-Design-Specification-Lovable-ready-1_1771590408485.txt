@@ -1,0 +1,431 @@
+Tattoo Hut — Website Design Specification (Lovable-ready)
+1. Project Overview
+
+Website goal: Drive bookings + calls + walk-ins (appointments + same-day).
+Tagline / positioning: Neon-lit neighborhood shop — spotless, fair-priced tattoos & piercings in Houston.
+Primary CTAs:
+
+Book Your Tattoo
+
+Get Pierced Today
+Secondary CTAs: Call Now, Get Directions, View Gallery, Meet the Artists
+
+Business details (for footer + Contact page):
+
+Address: 455 W Parker Rd, Houston, TX 77091
+
+Phone: +1 504-295-0091
+
+Hours: Opens 12pm (display as “Open daily from 12pm” unless you confirm closing time)
+
+Badges: LGBTQ+ friendly · Black-owned · Asian-owned · Indigenous-owned
+
+Proof: 5.0★ across 140 reviews (display as “5.0★ • 140+ reviews”)
+
+Differentiators to highlight everywhere:
+
+Flawless reputation (5.0★ / 140+ reviews)
+
+Affordable (small tattoos from $50)
+
+Multiple named artists/piercer (Wyskii, Caelan)
+
+Spotless, relaxed atmosphere (music, warmth, listening)
+
+Deeply inclusive and welcoming
+
+2. Website Structure
+
+Application type: Multi-page marketing site + embedded booking.
+
+Pages
+
+Home
+
+Services (Tattoos + Piercings)
+
+Artists
+
+Gallery
+
+FAQ
+
+Book a Session (embedded booking hub)
+
+Contact
+
+Global navigation (top)
+
+Home | Services | Artists | Gallery | FAQ | Contact | Book a Session (primary button)
+
+Mobile sticky action bar (recommended)
+
+Book (primary)
+
+Call
+
+Directions
+
+3. Copywriting Guide (final, ready-to-use)
+Home
+Hero
+
+H1: Custom tattoos & piercings in Houston — clean, affordable, welcoming
+Subhead: Tattoo Hut is a Black-, Asian-, and Indigenous-owned shop known for fair pricing, a spotless studio, and artists who truly listen. LGBTQ+ friendly. Walk-ins welcome after 12pm.
+CTA 1: Book Your Tattoo
+CTA 2: Get Pierced Today
+Proof chips: 5.0★ • 140+ reviews · Small tattoos from $50 · Spotless studio · Walk-ins + appointments
+
+Why Tattoo Hut (cards)
+
+5.0★ reputation — 140+ reviews and a genuinely flawless track record
+
+Fair pricing — small tattoos start at $50 (final price depends on size/detail)
+
+Artists who listen — collaborative, zero-rush experience
+
+Spotless environment — clean, safe, professional setup
+
+Inclusive by design — multi-identity owned + LGBTQ+ welcoming
+
+Services preview
+
+Custom Tattoos
+Copy: From minimalist to bold, we’ll design it with you and place it perfectly.
+CTA: View Tattoo Services
+
+Piercings
+Copy: Quick, clean, calm piercings with aftercare guidance included.
+CTA: View Piercing Services
+
+Artist preview
+
+Headline: Meet the artists
+Copy: Explore styles, see portfolios, and book with confidence.
+CTA: Meet the Team
+
+Gallery preview
+
+Headline: Real work. Real clients.
+CTA: View Gallery
+
+Social proof block
+
+Headline: Loved for the work — and the vibe
+Support copy: Reviews consistently mention cleanliness, fair prices, great music, and how welcoming the team is.
+
+CTA banner
+
+Headline: Ready when you are.
+Copy: Book online in seconds — or walk in after 12pm for same-day availability.
+Buttons: Book Your Tattoo / Get Pierced Today
+
+Services (Tattoos + Piercings)
+Page header
+
+H1: Tattoos & piercings — done clean, done right
+Subhead: Custom work, calm experience, fair pricing. Walk-ins welcome after 12pm.
+
+Tattoos section
+
+H2: Custom Tattoos
+Body: Bring inspiration or a rough idea — we’ll help shape it into something you’ll love. Fine line, script, bold, flash, and more.
+Price note: Small tattoos start at $50 (final quote depends on size, detail, and placement).
+CTA: Book Your Tattoo
+
+How it works (steps)
+
+Share your idea (or reference images)
+
+Get a quote + pick a time
+
+Approve design + placement
+
+Tattoo + aftercare guidance
+
+Piercings section
+
+H2: Piercings
+Body: Clean setup, steady hands, and a calm experience — with aftercare guidance included.
+Walk-in note: Same-day piercings available (based on availability).
+CTA: Get Pierced Today
+
+Artists
+Page header
+
+H1: Artists with loyal followings — and zero ego
+Subhead: Browse portfolios, pick your style, and book directly.
+
+Artist card template (repeat for each)
+
+Name: Wyskii / Caelan / (add others)
+Style tags: (e.g., Fine Line, Script, Black & Grey, Color, Cover-ups)
+Mini bio: “Known for [style]. Calm, collaborative approach focused on clean work and comfortable sessions.”
+Buttons: View Work · Book with [Name]
+
+Gallery
+Page header
+
+H1: Gallery
+Subhead: Explore tattoos and piercings by style and artist.
+
+Filters: Newest · Fine Line · Script · Black & Grey · Color · Cover-ups · Piercings
+Image captions (optional): style + artist name.
+
+FAQ
+Page header
+
+H1: FAQ
+Subhead: Quick answers before you come through.
+
+Suggested Q&A copy:
+
+Do you take walk-ins? Yes — walk-ins are welcome after 12pm. Availability can vary by day, so booking is the quickest way to lock a time.
+
+How do I book? Tap “Book a Session” to reserve a time online in seconds.
+
+Do small tattoos start at $50? Yes — small/simple tattoos start at $50. Final pricing depends on size, detail, and placement.
+
+What should I do before my appointment? Eat beforehand, stay hydrated, and bring a valid ID. If you’re unsure, call us and we’ll help you prep.
+
+What payment methods do you accept? We accept multiple payment options — please call to confirm what’s best for you today. (Replace once confirmed.)
+
+What about aftercare? You’ll leave with aftercare instructions. If anything looks or feels off, contact us — we’ll help.
+
+Book a Session
+Page goal
+
+Fast conversion. Minimal friction. Supports spontaneous, price-conscious audience.
+
+Header copy
+
+H1: Book a Session
+Subhead: Book online in seconds — or walk in after 12pm for same-day availability.
+
+Content blocks
+
+Embedded booking widget (Booksy or Square)
+
+Quick actions
+
+Call Now: +1 504-295-0091
+
+Get Directions
+
+Walk-in note
+“Walk-ins welcome after 12pm. For quickest service, book ahead.”
+
+Contact
+Page header
+
+H1: Contact & Location
+Subhead: Come through — we’ll take care of you.
+
+Details block
+
+455 W Parker Rd, Houston, TX 77091
+
++1 504-295-0091
+
+Opens 12pm
+
+LGBTQ+ friendly · Black-owned · Asian-owned · Indigenous-owned
+
+Parking
+
+“Free parking available” (safe, non-specific)
+
+Map embed
+
+Google map embed centered on the address
+Buttons: Call Now · Get Directions · Book a Session
+
+4. Layout Guide (by page)
+Shared layout rules
+
+Max width: 1100–1200px content container
+
+Sections: generous spacing (72–96px vertical on desktop, 48–64px mobile)
+
+Use clear headings + short paragraphs + cards for scannability
+
+Every page should have a visible CTA within the first viewport (above the fold)
+
+Home layout
+
+Hero (split layout) → Proof chips row → “Why us” cards → Services (two feature panels) → Artists strip → Gallery grid preview → Reviews block → FAQ teaser (3 Qs) → CTA banner → Footer
+
+Services layout
+
+Sticky subnav or tabs (Tattoos / Piercings) → each section has: intro + price note + steps + CTA + gallery strip
+
+Artists layout
+
+Grid of artist cards with style tags → each opens a modal or dedicated artist detail section (optional) with portfolio + book button
+
+Gallery layout
+
+Filter chips + masonry grid → lightbox modal
+
+Book a Session layout
+
+Two-column on desktop:
+
+Left: booking embed
+
+Right: quick actions + walk-in messaging + proof (5.0★ / 140+)
+
+Contact layout
+
+Top info cards → map → parking/hours → CTA row
+
+5. Style Guide
+Brand vibe
+
+Neon-lit neighborhood gem: warm, creative, unpretentious, proudly diverse.
+
+Color palette
+
+Primary background: #111111
+
+Surface cards: #1A1A1A
+
+Neon accent: #FF2200
+
+Glow: rgba(255, 34, 0, 0.35)
+
+Chrome silver: #C0C0C0
+
+Text primary: #FFFFFF
+
+Text muted: #CFCFCF
+
+Typography
+
+Headlines / accents: Script font for select headings (Pacifico / Playlist Script vibe)
+
+Body: Inter / DM Sans / Manrope (clean, modern sans)
+
+Suggested scale:
+
+H1 52 / 46 / 38 (desktop/tablet/mobile)
+
+H2 36 / 32 / 28
+
+Body 18 / 16 / 16
+
+Buttons 16–18 semi-bold
+
+UI components
+
+Primary button: Neon red fill (#FF2200), soft glow, rounded 16px
+
+Secondary button: Transparent, 1px silver border, red glow on hover
+
+Cards: subtle border (silver @ 20% opacity), slight shadow, hover glow
+
+Icons: simple line icons (Lucide style), white/silver with red hover
+
+Dividers: faint “neon tube” horizontal lines (gradient from transparent → red glow → transparent)
+
+Imagery
+
+Dark, warm photography: studio interior, clean stations, artist-at-work, friendly candid moments
+
+Avoid overly “hard/metal” tattoo tropes; keep it welcoming and modern
+
+6. Additional Instructions (logic + behavior)
+Booking embed behavior
+
+Book button always routes to /book
+
+If using Booksy: embed widget or deep-link to Booksy booking flow
+
+If using Square: embed appointment widget or “Book now” link + preserve UTMs
+
+Trust & proof
+
+Show “5.0★ • 140+ reviews” consistently (home hero + book page + footer)
+
+Include a “Reviews” section that links out to Google reviews (or embed if allowed)
+
+Payment copy (until confirmed)
+
+Use neutral copy: “Multiple payment options accepted — call to confirm what’s best today.”
+
+Do not list Cash App/Venmo/Card until confirmed
+
+Accessibility
+
+Ensure neon red contrast is AA on dark backgrounds (use white text, reserve red for accents/buttons)
+
+Provide focus states and keyboard navigation for filters/lightbox
+
+7. Lovable Best Practices Checklist (paste into your workflow)
+Knowledge File (foundation for Lovable)
+
+Product vision:
+Tattoo Hut is a Houston tattoo and piercing shop delivering custom work in a spotless, inclusive, welcoming environment with fair pricing. The website’s job is to convert visitors into bookings, calls, and walk-ins with minimal friction.
+
+Primary audience personas:
+
+Spontaneous walk-in client — wants quick info, price confidence, directions, and a “book now” option
+
+First-timer / nervous client — wants reassurance (cleanliness, warmth, inclusivity, FAQs, aftercare)
+
+Artist-loyal follower — comes for Wyskii/Caelan, wants portfolio + direct booking
+
+Budget-conscious client — needs transparent “starting at $50” and quick booking
+
+Key features:
+
+Embedded online booking (Booksy or Square)
+
+Sticky mobile CTAs (Book/Call/Directions)
+
+Artist profiles + portfolios
+
+Filterable gallery + lightbox
+
+FAQ + trust signals (5.0★ / 140+)
+
+Contact page with map and parking note
+
+Tone of voice:
+Warm, confident, inclusive, no-ego. Short, punchy sentences. Emphasize comfort and cleanliness.
+
+Lovable build prompts (copy/paste)
+
+Use these in Lovable Chat mode to avoid unintended edits:
+
+Global UI
+
+“Create a multi-page site with routes: /, /services, /artists, /gallery, /faq, /book, /contact. Add a top nav with a primary ‘Book a Session’ button. Add a sticky mobile bottom bar with Book, Call, Directions.”
+
+Theme
+
+“Apply a dark neon theme: background #111111, surface #1A1A1A, accent #FF2200 with subtle glow, chrome #C0C0C0, text white. Use a modern sans font for body and a script font sparingly for select headings.”
+
+Home
+
+“Build the Home page using the provided copy. Hero with 2 CTAs, proof chips, ‘Why Tattoo Hut’ cards, services panels, artists preview, gallery preview, reviews block, CTA banner, footer with full business details.”
+
+Services
+
+“Create Services page with tabs/sections for Tattoos and Piercings using provided copy, steps, and CTAs.”
+
+Artists
+
+“Create an Artists page with cards for Wyskii and Caelan (placeholders allowed) including style tags, short bios, ‘View Work’ and ‘Book’ buttons.”
+
+Gallery
+
+“Create a filterable masonry gallery with categories and a lightbox modal. Include artist label + style tags.”
+
+Book
+
+“Create Book page focused on embedded booking widget placeholder with right-side quick actions and trust proof. Make primary CTA always route here.”
+
+Contact
+
+“Create Contact page with address, phone, hours, inclusivity badges, free parking note, and a map embed.”

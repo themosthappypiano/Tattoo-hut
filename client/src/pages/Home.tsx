@@ -34,7 +34,7 @@ export default function Home() {
             transition={{ duration: 0.8, ease: "easeOut" }}
           >
             <div className="flex justify-center -mt-8 -mb-8">
-              <img src="/images/hero-text-cropped.png" alt="Where Art Dreams Come True" className="h-72 md:h-80 lg:h-96 xl:h-[28rem] 2xl:h-[32rem] w-auto max-w-full" />
+              <img src="/images/tattoo-hut-logo.png" alt="Tattoo Hut" className="h-48 md:h-80 lg:h-96 xl:h-[28rem] 2xl:h-[32rem] w-auto max-w-full" />
             </div>
             <p className="text-gray-200 max-w-2xl mx-auto text-lg md:text-xl mt-12 mb-4 leading-relaxed font-medium">
               Where tradition meets modern artistry. Our expert artists bring your unique vision to life with precision, safety, and passion.

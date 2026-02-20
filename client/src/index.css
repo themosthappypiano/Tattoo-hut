@@ -5,10 +5,10 @@
 @tailwind utilities;
 
 :root {
-  --background: 0 0% 7%; /* #111111 */
+  --background: 0 0% 12%; /* #1F1F1F - slightly lighter than #111111 */
   --foreground: 0 0% 100%; /* #FFFFFF */
   
-  --card: 0 0% 10%; /* #1A1A1A */
+  --card: 0 0% 15%; /* #262626 - slightly lighter than #1A1A1A */
   --card-foreground: 0 0% 100%;
   
   --popover: 0 0% 10%;

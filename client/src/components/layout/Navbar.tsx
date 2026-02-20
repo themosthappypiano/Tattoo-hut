@@ -41,13 +41,16 @@ export function Navbar() {
       >
         <div className="container mx-auto px-4 flex items-center justify-between">
           <Link href="/" className="relative z-50 group">
-            <div className="flex flex-col items-start cursor-pointer">
-              <span className="font-display text-2xl font-bold text-white tracking-widest group-hover:text-primary transition-colors duration-300">
-                TATTOO HUT
-              </span>
-              <span className="text-[0.6rem] uppercase tracking-[0.3em] text-muted-foreground group-hover:text-white transition-colors duration-300">
-                Ink & Artistry
-              </span>
+            <div className="flex items-center gap-3 cursor-pointer">
+              <img src="/images/logo.png" alt="Tattoo Hut Logo" className="h-12 w-auto" />
+              <div className="flex flex-col items-start">
+                <span className="font-display text-xl font-bold text-white tracking-widest group-hover:text-primary transition-colors duration-300">
+                  TATTOO HUT
+                </span>
+                <span className="text-[0.6rem] uppercase tracking-[0.3em] text-muted-foreground group-hover:text-white transition-colors duration-300">
+                  Houston
+                </span>
+              </div>
             </div>
           </Link>
 

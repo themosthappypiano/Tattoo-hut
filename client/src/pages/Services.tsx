@@ -4,22 +4,22 @@ import { Check } from "lucide-react";
 export default function Services() {
   const services = [
     {
-      title: "Custom Tattoos",
-      price: "From $150/hr",
-      desc: "Unique designs created specifically for you. We consult with you to understand your vision and translate it into a timeless piece of art.",
-      features: ["Free Consultation", "Custom Sketching", "Aftercare Kit Included", "Touch-up Guarantee"]
+      title: "First Time Booking",
+      price: "$25.00 ・ 30 min",
+      desc: "Virtual Consultation / FaceTime / Zoom. Your information is securely stored and used only to coordinate your appointment. Please note that all virtual consultation fees are non-refundable. This policy helps protect our artists' time and commitment to your custom design.",
+      features: ["1-2 hours pre-appointment contact", "Design discussion", "Secure information handling", "Vision alignment"]
     },
     {
-      title: "Cover-ups",
-      price: "From $180/hr",
-      desc: "Transform old or unwanted tattoos into something new. Our specialists understand how to effectively mask and integrate old ink.",
-      features: ["Assessment Session", "Design Integration", "Color Correction", "Complex Patterning"]
+      title: "Consultation / Tattoo Booking",
+      price: "$100.00 ・ 2 hr",
+      desc: "Thank you for booking with Tattoo Hut Houston! We appreciate your trust in us. All your information is kept safe and is used solely to help schedule a time that works best for both you and our team. Please note that deposits are non-refundable and secure your spot.",
+      features: ["Artist name assignment", "One hour pre-appointment contact", "Final confirmation", "Secure spot"]
     },
     {
-      title: "Piercing",
-      price: "From $40",
-      desc: "Professional body piercing in a sterile environment using high-grade titanium jewelry. We offer everything from ear curation to dermal anchors.",
-      features: ["Titanium Jewelry", "Sterile Needles", "Detailed Aftercare", "Jewelry Change Service"]
+      title: "Tattoo Session",
+      price: "$50.00 ・ 1 hr",
+      desc: "Bring your vision to life with a professional tattoo session. Whether it's a small script or a bold piece, we ensure a clean and collaborative experience.",
+      features: ["Clean environment", "Collaborative design", "Aftercare guidance", "Professional execution"]
     }
   ];
 

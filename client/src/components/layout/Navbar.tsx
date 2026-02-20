@@ -42,7 +42,7 @@ export function Navbar() {
         <div className="container mx-auto px-4 flex items-center justify-between">
           <Link href="/" className="relative z-50 group">
             <div className="flex items-center cursor-pointer">
-              <img src="/images/logo.png?v=5" alt="Tattoo Hut Logo" className="h-40 w-auto" />
+              <img src="/images/logo.png?v=5" alt="Tattoo Hut Logo" className="h-24 md:h-40 w-auto" />
             </div>
           </Link>
 
